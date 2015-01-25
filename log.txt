@@ -1,1 +1,15 @@
-TEST
+Start: Thur, 22 Jan 2015 13:15:00
+End: Thur, 22 jan 2015 15:22:00
+Tasks: During this period I set up the repo and worked on the files variables and objects.
+
+Start: Sun, 25 Jan 2015 08:55:00
+End: Sun, 25 Jan 2015 12:58:00
+Tasks: During this period I completed the objects and variables files.
+
+Start: Sun, 25 Jan 2015 14:45:00
+End: Sun, 25 Jan 2015 16:30:00
+Tasks: During this period I worked on the functions file mainly focusing on the GitParse function.  Haven't finished it yet.
+
+Start: Sun, 25 Jan 2015 17:15:00
+End: Sun, 25 Jan 2015 18:55:00
+Tasks: During this period I finished the function file.  I continued to ride the struggle bus with the GitParse function but I'm pretty sure I have it working now.
